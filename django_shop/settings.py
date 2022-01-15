@@ -35,7 +35,7 @@ CART_SESSION_ID = 'cart'
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-8w-b+=^k5p0-l3atj-#^-=3f*=i^5kurik(ja7#rbv^-))r*dw'
+SECRET_KEY = '*************************************************'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
